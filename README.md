@@ -1,8 +1,6 @@
-No, that's all the information I need to create a draft readme for your finance dashboard project! Here's a template you can use:
-
 ## Gain Control of Your Finances: A Power BI Dashboard (Finance Dashboard)
 
-**[Consider adding an image of your finance dashboard here]**
+![Finance Dashboard](https://github.com/Kreazzy/Finance-Dashboard/assets/72403128/869d7e87-6f16-42fd-af69-b54a055d639c)
 
 **Take charge of your financial health with this interactive Power BI dashboard!** This project empowers you to track income, expenses, and savings, providing clear insights to help you make informed financial decisions.
 
